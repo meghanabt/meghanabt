@@ -23,7 +23,7 @@ Here are the sentences with emoji representations:
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/meghanabt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meghanabt/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/meghanabt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meghanabt/" height="30" width="40" /></a>
 </p>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghanabt&show_icons=true&locale=en&layout=compact" alt="meghanabt" /></p>-->
