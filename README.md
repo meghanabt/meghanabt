@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Meghana from Los Angeles </h1>
+<h1 align="center">Hi 👋, I'm Meghana from Los Angeles </h1>
 <h3 align="center">  A passionate Problem Solver ❤️ Full-Stack Developer</h3>
 
 <p align="center">
