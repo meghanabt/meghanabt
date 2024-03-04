@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="left">About Me</h1>
-Here are the sentences with emoji representations:
+
 
 💼 With over 2+ years of experience as a full-stack developer, I have contributed to projects at Accenture and gained valuable insights as a software engineering intern at Bosch Rexroth.
 
