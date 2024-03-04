@@ -8,9 +8,9 @@
 <h1 align="left">About Me</h1>
 
 
-💼 With over 2+ years of experience as a full-stack developer, I have contributed to projects at Accenture and gained valuable insights as a software engineering intern at Bosch Rexroth.
+💼 With over **2+ years of experience in both front-end and back-end technologies**, I have contributed to projects at **Accenture** and gained valuable insights as a software engineering intern at **Bosch Rexroth**.
 
-🎓 I am currently pursuing my graduate studies in Computer Science at CSUF and have prior work experience as a full-stack developer.
+🎓 I am currently pursuing my graduate studies in Computer Science at **California State University Fullerton**.
 
 💬 Ask me about **Javascript, React.js, Next.js, Node.js, MongoDB, Kubernetes**.
 
