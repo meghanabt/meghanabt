@@ -61,7 +61,7 @@ IoT Dashboard           →  Angular · AWS · Real-time Telemetry
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 **Backend**
-
+ a
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
@@ -96,6 +96,12 @@ IoT Dashboard           →  Angular · AWS · Real-time Telemetry
 
 > Built a production AI platform from scratch — no legacy codebase, no playbook. Architected agentic LLM systems, RAG infrastructure, multimodal compliance pipelines, and AI observability across a government-scale platform.
 
+**🎓 Intelligent Learning Experience Lab (IXL), CSUF** — *Research Software Graduate*
+`August 2022 – May 2024` · Fullerton, CA
+
+> Built LLM evaluation infrastructure for the lab. Reproducible benchmarking across 5–6 foundation models, a React + Flask dashboard for cross-model eval across 8+ dimensions, and LoRA/QLoRA ablation studies — 30% reasoning gains over base models. Work informed how we selected models for downstream production use.
+
+
 **🏢 Accenture Solutions Private Limited** — *Software Engineer*
 `November 2020 – August 2022` · Bangalore, India
 
@@ -105,12 +111,6 @@ IoT Dashboard           →  Angular · AWS · Real-time Telemetry
 `June 2018 - July 2019` · Bangalore, India
 
 > Designed and integrated 70+ RESTful APIs, engineered a real-time industrial IoT dashboard on AWS serving 1,500+ users, and architected enterprise-grade RBAC with JWT authentication across production systems.
-
-**🎓 California State University Fullerton** — *Graduate Teaching Associate*
-`August 2022 – May 2024` · Fullerton, CA
-
-> Mentored 150+ students in React, component architecture, API integration, state management, and Git workflows.
-
 ---
 
 ## Education
