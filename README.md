@@ -11,9 +11,6 @@
   <a href="https://meghana-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://github.com/meghanabt">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
