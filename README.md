@@ -113,8 +113,7 @@ IoT Dashboard           →  Angular · AWS · Real-time Telemetry
 ## Education
 
 **🎓 California State University Fullerton**
-*Master of Science in Computer Science* · GPA: 3.97/4.0 (Top 1% of Class 2024)
-`August 2022 – May 2024`
+*Master of Science in Computer Science* · GPA: 3.97/4.0
 
 ---
 
